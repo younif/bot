@@ -33,3 +33,6 @@ ROS 2 系统下部署
 3. 学习机器人的运动控制算法
 
 
+
+# 资料
+https://docs.robotsfan.com/isaaclab/source/setup/quickstart.html
