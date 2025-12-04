@@ -12,6 +12,9 @@
 
 学习大纲：
 
+阅读并理解Isaac Lab文档
+https://docs.robotsfan.com/isaaclab/index.html
+
 在 Isaac Sim 环境中复现一个强化学习项目
 
 动力学建模
