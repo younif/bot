@@ -10,10 +10,10 @@
 做一个基于语言的运动控制项目
 具体目标：做一个带有自动运镜稳定跟随拍摄视频功能的四轮足机器人
 
-学习大纲：
-阅读并理解Isaac Sim 文档
+# 学习大纲
+1. 阅读并理解Isaac Sim 文档
 https://docs.isaacsim.omniverse.nvidia.com/latest/index.html
-阅读并理解Isaac Lab 文档
+2. 阅读并理解Isaac Lab 文档
 https://docs.robotsfan.com/isaaclab/index.html
 
 在 Isaac Sim 环境中复现一个强化学习项目
