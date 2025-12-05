@@ -15,8 +15,9 @@
 https://docs.isaacsim.omniverse.nvidia.com/latest/index.html
 2. 阅读并理解Isaac Lab 文档
 https://docs.robotsfan.com/isaaclab/index.html
-
-在 Isaac Sim 环境中复现一个强化学习项目
+3. 配置Isaac Lab环境
+4. 
+5. 在 Isaac Sim 环境中复现一个强化学习项目
 
 动力学建模
 
